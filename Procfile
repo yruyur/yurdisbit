@@ -1,0 +1,1 @@
+worcker: phyton bot.py
